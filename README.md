@@ -1,5 +1,5 @@
 # Number Guessing Game
- My first TechDegree project from Team Treehouse
+ My first Python project from based on the Python Development TechDegree program at Team Treehouse.
 
 In this project, I created a game in Python where user enters a number between 1 and 100 to guess the number that was randomly picked.
 First, the game will pick a random number between 1 and 100.
